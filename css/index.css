@@ -96,7 +96,7 @@ img{
     border: solid 3px #262629;
 }
 
-@media screen and (max-width: 1575px) {
+@media screen and (max-width: 1775px) {
     img{
         display: none;
     }
