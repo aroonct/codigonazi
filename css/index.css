@@ -96,12 +96,6 @@ img{
     border: solid 3px #262629;
 }
 
-@media screen and (max-width: 1775px) {
-    img{
-        display: none;
-    }
-}
-
 @media screen and (max-width: 480px){
     #containerHTML,
     #containerCSS,
